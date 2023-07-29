@@ -1,0 +1,539 @@
+@media(max-width:780px) {
+    .menu-name {
+        display: none;
+        position: absolute;
+        top: 120px;
+        text-align: center;
+        background-color: green;
+        height: 500px;
+        border-radius: 50px;
+    }
+
+    .bg {
+        height: 650px;
+        max-width: 777px;
+        background-size: cover;
+        background-position: center;
+    }
+
+    .br1 {
+        height: 30px;
+        border-left: 10px solid #065e2e;
+        border-right: 10px solid #065e2e;
+        width: 600px;
+    }
+
+    .menu-name a {
+        display: block;
+        padding: 20px 0;
+    }
+
+    .dropdwon,
+    .dropdwon-1,
+    .dropdwon1,
+    .dropdwon2 {
+        right: 100px;
+    }
+
+    .box1 {
+        height: 40px;
+        width: 40px;
+        display: inline-block;
+    }
+
+    .userr {
+        line-height: 0;
+        padding-top: 10px;
+        padding-left: 10px;
+    }
+
+    .yett {
+        line-height: 0;
+        padding-top: 18px;
+        padding-left: 10px;
+        font-size: 20px;
+    }
+
+    nav {
+        height: 81px;
+        width: 768px;
+    }
+
+    .kjz {
+        position: absolute;
+        left: 40%;
+        display: block;
+    }
+
+    .hamburger {
+        display: block;
+        padding: 10px;
+        background-color: rgb(0, 0, 0);
+        color: white;
+        margin-right: 20px;
+        border-radius: 20px;
+    }
+
+    input[type=checkbox]:checked~.menu-name {
+        display: block;
+        width: 100%;
+    }
+
+    /* section part1 */
+
+    .about-img img {
+        width: 176px;
+        margin-left: 100px;
+        margin-top: 90px;
+    }
+
+    .sec1-main {
+        font-size: 30px;
+        min-width: 302px;
+        margin-left: -50px;
+        margin-top: 110px;
+    }
+
+    .sec1-main h1 {
+        font-size: 30px;
+        width: 350px;
+    }
+
+    .chai-info {
+        font-size: 16px;
+        margin-left: 25px;
+        margin-top: 1px;
+    }
+
+    .sec2-bgimg {
+        height: 214px;
+        width: 228px;
+        background-size: cover;
+        position: absolute;
+        margin-top: 25px;
+        margin-right: 180px;
+    }
+
+    /* section part2 */
+
+    .chai-info2 {
+        font-size: 16px;
+        width: 336px;
+        margin-left: 50px;
+        margin-top: 1px;
+
+    }
+
+    .sec1-img2 img {
+        width: 276px;
+        height: 184px;
+        text-align: center;
+        margin-top: 100px;
+
+    }
+
+    .sec1-btn button {
+        margin-left: 40px;
+        width: 120px;
+        height: 45px;
+    }
+
+    .container2 {
+        margin-top: 10%;
+    }
+
+    .line-img {
+        height: 214px;
+        width: 228px;
+        background-size: cover;
+        margin-left: 0;
+    }
+
+    .row2 {
+        margin-top: 0;
+        width: 25%;
+    }
+
+    /* section 2************a place to talk************************************* */
+
+    .our-hending-img {
+        margin-left: 10%;
+    }
+
+    .our-img {
+        width: 221px;
+        height: 29px;
+    }
+
+    .our-txt {
+        width: 220px;
+    }
+
+    .sec1-btn2 button {
+        width: 114px;
+        height: 45px;
+    }
+
+    .border-right {
+        border-right: 1px solid black;
+        height: 353px;
+        margin-left: 10px;
+    }
+
+    .our-img2 {
+        margin-top: 10%;
+    }
+
+    .our-cafeimg {
+        width: 160px;
+        height: 237px;
+    }
+
+    .our-cafeimg2 {
+        width: 160px;
+        height: 237px;
+    }
+
+    .border-bottom {
+        width: 600px;
+        text-align: center;
+        margin-left: 50px;
+    }
+
+    /* apni chai ki dukan */
+
+    .our-img2-1 {
+        margin-top: 80px;
+    }
+
+    .our-img2-1 {
+        margin-left: 50px;
+    }
+
+    .our-cafeimg-1 {
+        width: 160px;
+        height: 237px;
+    }
+
+    .our-cafeimg2-1 {
+        width: 160px;
+        height: 237px;
+    }
+
+    .border-right-1 {
+        border-right: 1px solid black;
+        height: 380px;
+        margin-left: 2px;
+    }
+
+    .our-img-1 {
+        width: 221px;
+        height: 62px;
+    }
+
+    .our-txt-1 {
+        width: 250px;
+        margin: 0;
+    }
+
+    .sec1-btn22 button {
+        width: 114px;
+        height: 45px;
+        margin-top: 20px;
+    }
+
+    /******************************** the desi cafe ***********************************/
+    .our-hending-img {
+        margin-left: 10%;
+    }
+
+    .our-img-2 {
+        width: 221px;
+        height: 62px;
+    }
+
+    .our-txt {
+        width: 220px;
+    }
+
+    .sec1-btn2 button {
+        width: 114px;
+        height: 45px;
+    }
+
+    .border-right-2 {
+        border-right: 1px solid black;
+        height: 430px;
+        margin-left: 10px;
+    }
+
+    .our-img2-2 {
+        margin-top: 10%;
+    }
+
+    .our-cafeimg-2 {
+        width: 160px;
+        height: 237px;
+    }
+
+    .our-cafeimg2-2 {
+        width: 160px;
+        height: 237px;
+    }
+
+    .border-bottom-2 {
+        width: 600px;
+        text-align: center;
+        margin-left: 50px;
+    }
+
+    /* section 3 */
+
+    .line-img-2 {
+        height: 226px;
+        width: 170px;
+        background-size: cover;
+        margin-left: 0;
+
+    }
+
+    .row2-2 {
+        margin-top: 0;
+        width: 25%;
+    }
+
+    .sec3-hed-menu {
+        font-size: 30px;
+    }
+
+    .sec3-img-1 {
+        width: 120px;
+        height: 240px;
+    }
+
+    .menu-img {
+        width: 300px;
+        height: 250px;
+    }
+
+    .sec3-img2-2 {
+        width: 120px;
+        height: 240px;
+    }
+
+    .sec3-bgtable {
+        width: 190px;
+        height: 436px;
+        bottom: 0;
+        right: 0px;
+        position: absolute;
+        background-repeat: no-repeat;
+        background-size: contain;
+    }
+
+    .sec3-pan {
+        margin-top: 10%;
+    }
+
+    /********* section-4 ********/
+
+    .green-our {
+        font-size: 30px;
+        font-weight: bold;
+        margin: 20px 0px 20px;
+    }
+
+    .sec4-logo {
+        width: 150px;
+    }
+
+    .sec4-black img {
+        width: 194px;
+        height: 459px;
+        margin-top: 30%;
+    }
+
+    .row4 {
+        border-right: 2px solid green;
+        height: 120px;
+        width: 50%;
+        margin-top: 50px;
+        margin-bottom: 50px;
+
+    }
+
+    /* section 5 */
+
+    .sec5-com1 {
+        height: 445px;
+        width: 276px;
+        margin-left: 80px;
+    }
+
+    .sec5-com1 h3 {
+        font-size: 25px;
+    }
+
+    .sec5-com1-txt {
+        width: 250px;
+        margin-top: -20px;
+    }
+
+    .sec5-com2-hending {
+        margin-left: 50px;
+    }
+
+    .com2-name {
+        font-size: 15px;
+        width: 150px;
+    }
+
+    .com2-img img {
+        width: 102px;
+        height: 102px;
+        margin-left: -90px;
+    }
+
+    .row1-img img {
+        width: 102px;
+        height: 102px;
+    }
+
+    .row1-name {
+        font-size: 15px;
+        width: 100px;
+        margin-top: -10px;
+    }
+
+    .sec5-row2 {
+        height: 445px;
+        width: 276px;
+    }
+
+    .sec5-row2-img {
+        width: 188px;
+        height: 134px;
+        margin-top: 20px;
+    }
+
+    .sec5-row2 h3 {
+        font-size: 25px;
+        margin-top: 20px;
+    }
+
+    .sec5-row2-txt {
+        width: 250px;
+        margin-top: 20px;
+
+    }
+
+    /* *****section 6********* */
+
+    .sec6-heding {
+        font-size: 25px;
+    }
+
+    .sec6-img1 img {
+        width: 80px;
+        height: 80px;
+    }
+
+    .sec6-img2 img {
+        width: 112px;
+        height: 112px;
+    }
+
+    .sec6-sec2 img {
+        width: 105px;
+        height: 110px;
+        margin-right: 0;
+    }
+
+    /* ****section 7********* */
+
+    .sec7-com1 {
+        margin-left: 50px;
+        height: 720px;
+        width: 500px;
+        position: relative;
+    }
+
+    .sec7-img img {
+        width: 276px;
+        height: 650px;
+    }
+
+    .sec7-text {
+        margin-top: 40px;
+    }
+
+    .row5 {
+        display: none;
+    }
+
+    .main {
+        margin-left: -100%;
+        margin-right: 30%;
+        margin-top: 100%;
+    }
+
+    /***** section 8********* */
+
+    .container8 {
+        width: 772px;
+        height: 630px;
+    }
+
+    .sec8-row1 h3 {
+        font-size: 34px;
+        width: 300px;
+    }
+
+    .sec8-row1 p {
+        font-size: 15px;
+        width: 300px;
+    }
+
+    .sec8-img img {
+        width: 360px;
+        height: 190px;
+        margin-left: 5px;
+    }
+
+    /* **********footer************** */
+    s
+    footer {
+        width: 772px;
+        height: 851px;
+    }
+
+    .footer-sec1 {
+        margin-left: 50px;
+    }
+
+    .footer-sec2 {
+        margin-right: 100px;
+    }
+
+    .footer-sec3 {
+        margin-top: 50%;
+        position: absolute;
+        margin-left: 50px;
+    }
+
+    .footer-sec4 {
+        margin-top: 50%;
+        position: absolute;
+        margin-left: 430px;
+    }
+
+    .br {
+        margin-top: 43%;
+    }
+
+    .footer-icon {
+        margin-top: 8px;
+        margin-left: 0;
+        margin-right: 80px;
+    }
+}
